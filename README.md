@@ -1,2 +1,2 @@
 # codechef-problems-solution
-Solutions to all the problems on Codechef in C++.
+Solutions to all the problems on Codechef in Python.
